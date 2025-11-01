@@ -33,7 +33,7 @@ After importing the snippet, copy and paste the code below into your QuickCSS fi
 
 | Type | Name | Purpose |
 | -------- | -------- | ------- |
-| Class | mask__0d616 & mask__0d616 | Quest Section
+| Class | mask__0d616 & wrapper__0d616 | Quest Section
 | Class | listeningAlong_e0cf27 | Spotify Listen Together
 | Class | panel__5dec7 | Stream Information
 | ID | vc-spotify-player | Spotify Player
