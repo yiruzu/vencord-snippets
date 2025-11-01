@@ -21,7 +21,7 @@
 - Click on that file, then click on the **Raw** button
 - A file will open on your browser, now copy the URL
 - Open Settings > Vencord > Themes > Online Themes
-- Paste the following link into the input box: `URL_HERE`
+- Paste the copied link into the input box
 
 </details>
 
