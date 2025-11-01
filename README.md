@@ -11,6 +11,7 @@
 | -------- | ------- | ------- |
 | [UserActivityRedesign](snippets/UserActivityRedesign/) | Revamps the user and activity panels with a twist to the default design and highlights the Spotify cover art in the music player. | <img valign='middle' alt='UserActivityRedesign' src='docs/media/UserActivityRedesign_after.png' width='700px'/> |
 | [StickyPager](snippets/StickyPager/) | Makes the search page selector sticky, so you can always access it while scrolling. | <img valign='middle' alt='StickyPager' src='docs/media/StickyPager_after.png'/> |
+| [BubbleUsernames](snippets/BubbleUsernames/) | Adds a clean role color matching background to usernames. | <img valign='middle' alt='BubbleUsernames' src='docs/media/BubbleUsernames_after.png'/> |
 
 ## `🛠️`丨Installation
 
