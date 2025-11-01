@@ -8,9 +8,9 @@
 
 ## Snippets
 
-| Snippet    | Credits | Changes | Image |
+| Snippet | Credits | Description | Image |
 | -------- | ------- | ------- | ------- |
-| [UserActivityRedesign](snippets/UserActivityRedesign/) | [star_yolk](https://en.pronouns.page/@eggyolk_) - User Area and Activity Panels redesign<br>[fripe](https://github.com/Fripe070) - Fancy spotify controls | Updates the user and activity panels with a fresh design and showcases the Spotify cover art in the player. | <img valign='middle' alt='UserActivityRedesign' src='docs/preview/UserActivityRedesign.png'/> |
+| [UserActivityRedesign](snippets/UserActivityRedesign/) | [star_yolk](https://en.pronouns.page/@eggyolk_) - User Area and Activity Panels redesign<br>[fripe](https://github.com/Fripe070) - Fancy spotify controls | Updates the user and activity panels with a fresh design and showcases the Spotify cover art in the player. | <img valign='middle' alt='UserActivityRedesign' src='docs/preview/UserActivityRedesign.png' width='700px'/> |
 
 ## Installation
 
