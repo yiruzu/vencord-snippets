@@ -10,7 +10,7 @@
 
 | Snippet | Description | Image |
 | -------- | ------- | ------- |
-| [UserActivityRedesign](snippets/UserActivityRedesign/) | Updates the user and activity panels with a fresh design and showcases the Spotify cover art in the player. | <img valign='middle' alt='UserActivityRedesign' src='docs/preview/UserActivityRedesign.png' width='700px'/> |
+| [UserActivityRedesign](snippets/UserActivityRedesign/) | Updates the user and activity panels with a fresh design and showcases the Spotify cover art in the player. | <img valign='middle' alt='UserActivityRedesign' src='docs/preview/UserActivityRedesign.png' width='1000px'/> |
 
 ## `🛠️`丨Installation
 
@@ -52,4 +52,4 @@
 
 ## `⭐`丨Special Credits
 
-[SEELE1306](https://github.com/SEELE1306) for the readme and idea.
+[SEELE1306](https://github.com/SEELE1306) for the readme and idea
