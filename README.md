@@ -33,7 +33,7 @@
 - Click on that file, then click on the **Raw** button
 - A file will open on your browser, now copy the URL
 - Open Settings > Vencord > Themes > Online Themes
-- Paste the following link into **Theme Links**: `URL HERE`
+- Paste the following link into **Theme Links**: `URL_HERE`
 - Enter or mouse-click outside the Online Themes box to apply
 
 </details>
@@ -46,7 +46,7 @@
 - Click on that file, then click on the **Raw** button
 - A file will open on your browser, now copy the URL
 - Open Settings > Vencord > Vencord > Open QuickCSS File
-- Paste the following line as your **first line (ahead of any other custom CSS)**: `@import url(URL HERE);`
+- Paste the following line as your **first line (ahead of any other custom CSS)**: `@import url("URL_HERE");`
 
 </details>
 
