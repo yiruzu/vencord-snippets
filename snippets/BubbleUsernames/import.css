@@ -1,7 +1,7 @@
 :root {
   --username-vertical-padding: 0;
   --username-horizontal-padding: 6px;
-  --username-radius: 4px;
+  --username-border-radius: 5px;
   --username-plugin-suffix: "| @";
 }
 
@@ -24,7 +24,7 @@
 .username_c19a55 {
   display: inline-flex;
   padding: var(--username-vertical-padding) var(--username-horizontal-padding);
-  border-radius: var(--username-radius);
+  border-radius: var(--username-border-radius);
   text-decoration: none;
 }
 

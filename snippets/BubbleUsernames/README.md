@@ -14,7 +14,7 @@ After importing the snippet, copy and paste the code below into your QuickCSS fi
 :root {
   --username-vertical-padding: 0;
   --username-horizontal-padding: 6px;
-  --username-radius: 4px;
+  --username-border-radius: 5px;
   --username-plugin-suffix: "| @";
 }
 ```
