@@ -1,6 +1,6 @@
 # Vencord CSS Snippets
 
-[![Supports Vencord](https://img.shields.io/badge/supports-vencord-pink?style=for-the-badge)](https://vencord.dev/) [![Supports Vesktop](https://img.shields.io/badge/supports-vesktop-pink?style=for-the-badge)](https://vesktop.dev/)
+[![Supports Vencord](https://img.shields.io/badge/supports-vencord-pink?style=for-the-badge)](https://vencord.dev/) [![Supports Vesktop](https://img.shields.io/badge/supports-vesktop-blue?style=for-the-badge)](https://vesktop.dev/)
 
 > [!NOTE]
 > Snippets may occasionally break after a new Discord update. Fixes will be released shortly afterward. If the issue persists, please open an issue.
