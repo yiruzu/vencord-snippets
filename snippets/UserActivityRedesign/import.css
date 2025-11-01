@@ -1,0 +1,110 @@
+/*
+  listeningAlong_e0cf27 = Spotify Listening Together Panel
+  panel__5dec7 = Stream Information
+  vc-spotify-player = Spotify Player
+  wrapper_e131a9 & container_e131a9 = Voice Call Controls
+  container__37e49 = User/Profile Section
+*/
+
+:root {
+  --bg-color: var(--background-gradient-high, var(--background-base-lowest));
+  --panel-gap: 8px;
+  --panel-radius: 10px;
+  --panel-color: var(--bg-overlay-floating, var(--background-base-low, var(--background-secondary-alt)));
+  --spotify-image-blur: 4px;
+  --spotify-image-opacity: 0.45;
+  --spotify-image-hover-opacity: 0.7;
+}
+
+/* Panel Order */
+.panels__5e434 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--panel-gap);
+}
+
+.listeningAlong_e0cf27 {
+  order: 0;
+}
+.panel__5dec7 {
+  order: 1;
+}
+#vc-spotify-player {
+  order: 2;
+}
+.wrapper_e131a9 {
+  order: 3;
+}
+.container__37e49 {
+  order: 4;
+}
+
+/* Panels & Containers */
+section[class^="panels_"] {
+  background: var(--bg-color);
+  border: none;
+}
+
+.container_e131a9,
+section[class^="panels_"] div[class^="container__"],
+section[class^="panels_"] div[class^="panel_"],
+section[class^="panels_"] div[class^="listeningAlong_"] {
+  background-color: var(--panel-color);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--panel-radius);
+}
+
+.panel__5dec7 {
+  padding: calc(var(--custom-guild-list-padding) - var(--custom-panels-spacing) + 3px);
+}
+.container_e131a9 {
+  height: 90px;
+}
+.wrapper_e131a9:not(:has(.container_e131a9)) {
+  display: none;
+}
+
+/* Spotify Player */
+#vc-spotify-player {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(to bottom, transparent 0%, var(--panel-color) 100%) !important;
+  border: 1px solid transparent;
+  border-radius: var(--panel-radius);
+  margin: 0 -1px;
+}
+
+#vc-spotify-player div[class^="container__"] {
+  background: none;
+  border: none;
+}
+
+#vc-spotify-player::before,
+#vc-spotify-player::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  transition: all 0.4s ease-out;
+  z-index: -1;
+}
+#vc-spotify-player::before {
+  background: var(--vc-spotify-track-image) center/cover no-repeat;
+  opacity: var(--spotify-image-opacity);
+}
+#vc-spotify-player::after {
+  backdrop-filter: blur(var(--spotify-image-blur));
+}
+#vc-spotify-player:hover::before {
+  opacity: var(--spotify-image-hover-opacity);
+}
+#vc-spotify-player:hover::after {
+  backdrop-filter: blur(0);
+}
+
+#vc-spotify-player > * {
+  filter: drop-shadow(0 0 10px var(--panel-color));
+}
+
+.vc-spotify-progress-time {
+  margin-top: 10px;
+}
