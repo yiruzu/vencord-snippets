@@ -1,6 +1,8 @@
 # User & Activity Panels Redesign
 
-![Preview](../../docs/preview/UserActivityRedesign.png)
+| Before | After |
+| -------- | -------- |
+| <img valign='middle' alt='UserActivityRedesign' src='../../docs/preview/UserActivityRedesign_before.png'/> | <img valign='middle' alt='UserActivityRedesign' src='../../docs/preview/UserActivityRedesign_after.png'/> |
 
 ## `⚙️`丨Configuration
 
