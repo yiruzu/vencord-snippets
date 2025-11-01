@@ -2,7 +2,7 @@
 
 | Before | After |
 | -------- | -------- |
-| <img valign='middle' alt='UserActivityRedesign' src='../../docs/preview/UserActivityRedesign_before.png'/> | <img valign='middle' alt='UserActivityRedesign' src='../../docs/preview/UserActivityRedesign_after.png'/> |
+| <img valign='middle' alt='UserActivityRedesign' src='../../docs/media/UserActivityRedesign_before.png'/> | <img valign='middle' alt='UserActivityRedesign' src='../../docs/media/UserActivityRedesign_after.png'/> |
 
 ## `⚙️`丨Configuration
 
@@ -28,7 +28,7 @@ After importing the snippet, copy and paste the code below into your QuickCSS fi
 }
 ```
 
-## `🧩`丨Classes
+## `🧩`丨Classes & IDs
 
 | Type | Name | Purpose |
 | -------- | -------- | ------- |

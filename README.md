@@ -10,7 +10,8 @@
 
 | Snippet | Description | Image |
 | -------- | ------- | ------- |
-| [UserActivityRedesign](snippets/UserActivityRedesign/) | Updates the user and activity panels with a fresh design and showcases the Spotify cover art in the player. | <img valign='middle' alt='UserActivityRedesign' src='docs/preview/UserActivityRedesign_after.png' width='700px'/> |
+| [UserActivityRedesign](snippets/UserActivityRedesign/) | Revamps the user and activity panels with a twist to the default design and highlights the Spotify cover art in the music player. | <img valign='middle' alt='UserActivityRedesign' src='docs/media/UserActivityRedesign_after.png' width='700px'/> |
+| [StickyPager](snippets/StickyPager/) | Makes the search page selector sticky, so you can always access it while scrolling. | <img valign='middle' alt='StickyPager' src='docs/media/StickyPager_after.png'/> |
 
 ## `🛠️`丨Installation
 
