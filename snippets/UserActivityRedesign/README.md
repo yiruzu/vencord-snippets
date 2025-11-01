@@ -1,5 +1,7 @@
 # User & Activity Panels Redesign
 
+![Preview](../../docs/preview/UserActivityRedesign.png)
+
 ## `⚙️`丨Configuration
 
 After importing the snippet, copy and paste the code below into your QuickCSS file to configure it.
