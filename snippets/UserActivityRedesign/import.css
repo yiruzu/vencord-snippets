@@ -3,7 +3,7 @@
 
   --panel-gap: 8px;
   --panel-radius: 10px;
-  --panel-color: var(--bg-overlay-floating, var(--background-base-low, var(--background-secondary-alt)));
+  --panel-color: var(--background-gradient-highest, var(--background-base-low));
 
   --spotify-image-blur: 4px;
   --spotify-image-opacity: 0.45;
