@@ -72,6 +72,7 @@
 
 .container__37e49 {
   order: var(--order-profile);
+  min-height: 58px;
 }
 
 #vc-spotify-player {
