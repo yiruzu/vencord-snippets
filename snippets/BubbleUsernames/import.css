@@ -1,7 +1,7 @@
 :root {
   --username-vertical-padding: 0;
   --username-horizontal-padding: 6px;
-  --username-radius: 4px;
+  --username-radius: 6px;
   --username-plugin-suffix: "| @";
 }
 
