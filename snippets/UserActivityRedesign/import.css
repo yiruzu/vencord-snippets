@@ -1,19 +1,19 @@
-/*
-  listeningAlong_e0cf27 = Spotify Listening Together Panel
-  panel__5dec7 = Stream Information
-  vc-spotify-player = Spotify Player
-  wrapper_e131a9 & container_e131a9 = Voice Call Controls
-  container__37e49 = User/Profile Section
-*/
-
 :root {
   --bg-color: var(--background-gradient-high, var(--background-base-lowest));
+
   --panel-gap: 8px;
   --panel-radius: 10px;
   --panel-color: var(--bg-overlay-floating, var(--background-base-low, var(--background-secondary-alt)));
+
   --spotify-image-blur: 4px;
   --spotify-image-opacity: 0.45;
   --spotify-image-hover-opacity: 0.7;
+
+  --order-listening: 0;
+  --order-stream: 1;
+  --order-spotify-player: 2;
+  --order-voice: 3;
+  --order-profile: 4;
 }
 
 /* Panel Order */
@@ -24,19 +24,19 @@
 }
 
 .listeningAlong_e0cf27 {
-  order: 0;
+  order: var(--order-listening);
 }
 .panel__5dec7 {
-  order: 1;
+  order: var(--order-stream);
 }
 #vc-spotify-player {
-  order: 2;
+  order: var(--order-spotify-player);
 }
 .wrapper_e131a9 {
-  order: 3;
+  order: var(--order-voice);
 }
 .container__37e49 {
-  order: 4;
+  order: var(--order-profile);
 }
 
 /* Panels & Containers */
