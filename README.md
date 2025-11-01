@@ -1,7 +1,7 @@
 # Vencord CSS Snippets
 
-![Static Badge](https://img.shields.io/badge/supports-vencord-blue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/supports-vesktop-lightblue?style=for-the-badge)
+![Supports Vencord](https://img.shields.io/badge/supports-vencord-pink?style=for-the-badge)
+![Supports Vesktop](https://img.shields.io/badge/supports-vesktop-pink?style=for-the-badge)
 
 > [!IMPORTANT]
 > Some snippets might break when Discord updates. Don’t worry, fixes will be rolled out shortly afterward.
