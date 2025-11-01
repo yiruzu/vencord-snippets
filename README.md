@@ -4,7 +4,7 @@
 [![Supports Vesktop](https://img.shields.io/badge/supports-vesktop-pink?style=for-the-badge)](https://vesktop.dev/)
 
 > [!IMPORTANT]
-> Some snippets might break when Discord updates. Don’t worry, fixes will be rolled out shortly afterward.
+> Snippets may occasionally break after a new Discord update. Fixes will be released shortly afterward. If the issue persists, please open an issue.
 
 ## `📄`丨Snippets
 
@@ -53,4 +53,4 @@
 
 ## `⭐`丨Special Credits
 
-[SEELE1306](https://github.com/SEELE1306) for the readme and idea
+[SEELE1306](https://github.com/SEELE1306) for the readme and idea.
