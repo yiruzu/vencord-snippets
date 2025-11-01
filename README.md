@@ -3,7 +3,7 @@
 [![Supports Vencord](https://img.shields.io/badge/supports-vencord-pink?style=for-the-badge)](https://vencord.dev/)
 [![Supports Vesktop](https://img.shields.io/badge/supports-vesktop-pink?style=for-the-badge)](https://vesktop.dev/)
 
-> [!IMPORTANT]
+> [!NOTE]
 > Snippets may occasionally break after a new Discord update. Fixes will be released shortly afterward. If the issue persists, please open an issue.
 
 ## `📄`丨Snippets
