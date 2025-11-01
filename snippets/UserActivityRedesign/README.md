@@ -20,11 +20,12 @@ After importing the snippet, copy and paste the code below into your QuickCSS fi
   --spotify-image-opacity: 0.45;
   --spotify-image-hover-opacity: 0.7;
 
-  --order-listening: 0;
-  --order-stream: 1;
-  --order-spotify-player: 2;
-  --order-voice: 3;
-  --order-profile: 4;
+  --order-quests: 0;
+  --order-listening: 1;
+  --order-stream: 2;
+  --order-spotify-player: 3;
+  --order-voice: 4;
+  --order-profile: 5;
 }
 ```
 
@@ -32,6 +33,7 @@ After importing the snippet, copy and paste the code below into your QuickCSS fi
 
 | Type | Name | Purpose |
 | -------- | -------- | ------- |
+| Class | mask__0d616 & mask__0d616 | Quest Section
 | Class | listeningAlong_e0cf27 | Spotify Listen Together
 | Class | panel__5dec7 | Stream Information
 | ID | vc-spotify-player | Spotify Player
