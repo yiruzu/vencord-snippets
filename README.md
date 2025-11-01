@@ -16,28 +16,34 @@
 
 <details>
 <summary>With Online Themes</summary>
+
 - Click on the folders of the snippet you want until you see the file `import.css`
 - Click on that file, then click on the **Raw** button
 - A file will open on your browser, now copy the URL
 - Open Settings > Vencord > Themes > Online Themes
 - Paste the following link into the input box: `URL_HERE`
+
 </details>
 
 <details>
 <summary>With Local Themes</summary>
+
 - Click on the folders of the snippet you want until you see the file `import.css`
 - Download the file `import.css` from the folders
 - Open Settings > Vencord > Themes > Local Themes > Open Themes Folder
 - Paste the downloaded file into the **themes** folder
+
 </details>
 
 <details>
 <summary>With QuickCSS</summary>
+
 - Click on the folders of the snippet you want until you see the file `import.css`
 - Click on that file, then click on the **Raw** button
 - A file will open on your browser, now copy the URL
 - Open Settings > Vencord > Themes > Local Themes > Edit QuickCSS
 - Paste the following line as your **first line (above of any other custom CSS)**: `@import url("URL_HERE");`
+
 </details>
 
 ## `⭐`丨Special Credits
