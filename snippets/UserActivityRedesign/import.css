@@ -88,6 +88,17 @@
     background-color: var(--vc-spotify-green) !important;
   }
 
+  .vc-spotify-repeat-context,
+  .vc-spotify-repeat-track,
+  .vc-spotify-shuffle-on {
+    span {
+      color: var(--vc-spotify-green);
+    }
+    svg {
+      fill: var(--vc-spotify-green);
+    }
+  }
+
   .vc-spotify-progress-time {
     margin-top: 10px;
   }
