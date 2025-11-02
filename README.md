@@ -42,6 +42,8 @@
    @import url("URL_HERE");
    ```
 
+</details>
+
 ## `⭐`丨Special Credits
 
 [SEELE1306](https://github.com/SEELE1306) for the readme and idea.
