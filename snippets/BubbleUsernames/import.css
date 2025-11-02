@@ -22,7 +22,6 @@
 }
 
 .username_c19a55 {
-  display: inline-flex;
   padding: var(--username-vertical-padding) var(--username-horizontal-padding);
   border-radius: var(--username-border-radius);
   text-decoration: none;
