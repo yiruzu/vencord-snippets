@@ -84,6 +84,14 @@
   border-radius: var(--panel-radius);
   margin: 0 -1px;
 
+  .barFill_a562c8 {
+    background-color: var(--vc-spotify-green) !important;
+  }
+
+  .vc-spotify-progress-time {
+    margin-top: 10px;
+  }
+
   &::before,
   &::after {
     content: "";
@@ -109,9 +117,5 @@
 
   > * {
     filter: drop-shadow(0 0 10px var(--panel-color));
-  }
-
-  .vc-spotify-progress-time {
-    margin-top: 10px;
   }
 }
