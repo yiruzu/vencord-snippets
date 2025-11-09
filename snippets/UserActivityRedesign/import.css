@@ -27,13 +27,9 @@
 
 .mask__0d616 {
   order: var(--order-quests);
-  height: 70px;
-  max-height: 70px;
-  min-height: 70px;
   margin-inline: 0;
   padding-inline: 0;
   border-radius: var(--panel-radius);
-  pointer-events: none;
 }
 .wrapper__0d616,
 .wrapperVisible__0d616 {
