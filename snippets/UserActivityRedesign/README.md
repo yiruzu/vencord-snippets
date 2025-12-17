@@ -14,7 +14,7 @@ After importing the snippet, copy and paste the code below into your QuickCSS fi
 
   --panel-gap: 8px;
   --panel-radius: 10px;
-  --panel-color: var(--bg-overlay-floating, var(--background-base-low, var(--background-secondary-alt)));
+  --panel-color: var(--background-gradient-highest, var(--background-base-low));
 
   --spotify-image-blur: 4px;
   --spotify-image-opacity: 0.45;
@@ -33,12 +33,12 @@ After importing the snippet, copy and paste the code below into your QuickCSS fi
 
 | Type | Name | Purpose |
 | -------- | -------- | ------- |
-| Class | mask__0d616 & wrapper__0d616 | Quest Section
-| Class | listeningAlong_e0cf27 | Spotify Listen Together
-| Class | panel__5dec7 | Stream Information
+| Class | _0d6162a4e6a4b802-mask & _0d6162a4e6a4b802-wrapper | Quest Section
+| Class | e0cf275d59896c00-listeningAlong | Spotify Listen Together
+| Class | _5dec784a68542d60-panel | Stream Information
 | ID | vc-spotify-player | Spotify Player
-| Class | wrapper_e131a9 & container_e131a9 | Voice Call Controls
-| Class | container__37e49 | User/Profile Section
+| Class | e131a99484292a19-wrapper & e131a99484292a19-container | Voice Call Controls
+| Class | _37e49614b9f110a9-container | User/Profile Section
 
 ## `⭐`丨Credits
 

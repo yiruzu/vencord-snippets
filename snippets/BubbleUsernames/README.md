@@ -24,9 +24,9 @@ After importing the snippet, copy and paste the code below into your QuickCSS fi
 | Name | Purpose |
 | -------- | -------- |
 | vc-smyn-suffix | ShowMeYourName Plugin Suffix
-| header_c19a55 | Username Header
-| username_c19a55 | Username
-| convenienceGlowGradient_e5de78 | Gradient Username
+| c19a557985eb7793-header | Username Header
+| c19a557985eb7793-username | Username
+| e5de7811b2777bfa-convenienceGlowGradient | Gradient Username
 
 ## `⭐`丨Credits
 

@@ -1,4 +1,4 @@
-[class^="searchResultsWrap_"] [class^="container_"]:has([class^="pageControlContainer_"]) {
+.a9e7064fdee8e9b0-searchResultsWrap ._86c0fae6715927dc-container:has(.c1521037ef09de7e-pageControlContainer) {
   position: sticky;
   z-index: 999;
   bottom: 10px;
