@@ -1,4 +1,4 @@
-.a98f3b020416ad54-searchResultsWrap .b82a71028a53dcf8-container:has(.c1521037ef09de7e-pageControlContainer) {
+.searchResultsWrap_a98f3b .container_b82a71:has(.pageControlContainer_c15210) {
   position: sticky;
   z-index: 999;
   bottom: 10px;
