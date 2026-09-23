@@ -1,8 +1,9 @@
 :root {
+  --username-margin-bottom: 3px;
   --username-vertical-padding: 0;
   --username-horizontal-padding: 6px;
   --username-border-radius: 5px;
-  --username-plugin-suffix: "| @";
+  --username-plugin-prefix: "| @";
 }
 
 .vc-smyn-suffix {
@@ -10,7 +11,7 @@
   opacity: 0.5;
 
   &::before {
-    content: var(--username-plugin-suffix);
+    content: var(--username-plugin-prefix);
   }
   &::after {
     content: "";
@@ -18,13 +19,13 @@
 }
 
 .header_c19a55 {
-  margin-bottom: 1px;
+  margin-bottom: var(--username-margin-bottom);
 }
 
 .username_c19a55 {
   padding: var(--username-vertical-padding) var(--username-horizontal-padding);
   border-radius: var(--username-border-radius);
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 /* Normal Usernames */
@@ -32,7 +33,7 @@
   background: color-mix(in srgb, currentColor 20%, transparent);
 
   &:hover {
-    text-decoration: none;
+    text-decoration: none !important;
     background: color-mix(in srgb, currentColor 30%, transparent);
   }
 }

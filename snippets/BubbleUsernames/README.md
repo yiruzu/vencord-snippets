@@ -12,10 +12,11 @@ After importing the snippet, copy and paste the code below into your QuickCSS fi
 
 ```css
 :root {
+  --username-margin-bottom: 3px;
   --username-vertical-padding: 0;
   --username-horizontal-padding: 6px;
   --username-border-radius: 5px;
-  --username-plugin-suffix: "| @";
+  --username-plugin-prefix: "| @";
 }
 ```
 
